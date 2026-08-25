@@ -28,5 +28,8 @@ Os usuário devem possuir cadstro para fazerem as postagens e comentarios em out
 - Usuário que comentou (em relação a outra postagem) 
 - Data e hora da publicação
 
+
+# Modelos lógicos em fotos
 ![Exemplo em floxograma](Usuarios.png)
+![Tabela modelo logico](usuario_postagens_comentarios.png)
 
